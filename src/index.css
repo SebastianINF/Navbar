@@ -180,4 +180,8 @@ span {
     justify-content: center;
     cursor: pointer;
   }
+
+  .X {
+    display: none;
+  }
 }
